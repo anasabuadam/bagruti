@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /bagruti/dashboard/
+Disallow: /bagruti/account/
+Disallow: /bagruti/subscription/success/
+
+Sitemap: https://anasabuadam.github.io/bagruti/sitemap.xml
